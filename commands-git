@@ -4,3 +4,6 @@ git push
 git push --all
 Salut
 Hello
+git branch "Nom de la branch"
+git checkout "Nom de la branch"
+
