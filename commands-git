@@ -1,0 +1,4 @@
+git clone https://github.com/aaron-agustin/git-begins
+git oush origin <branche>
+git push
+git push --all
